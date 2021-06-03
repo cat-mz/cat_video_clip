@@ -5,7 +5,7 @@
 ├── 接口文档.txt  与前端交接文档
 ├── celery_tasks    任务队列
 ├── db.sqlite3      采取轻量型数据库,可以使用pycharm打开
-├── logs            日志
+├── logs            日志 空目录上传不了
 ├── manage.py       管理器
 ├── README.md       项目介绍
 ├── templates       模板文件
@@ -13,8 +13,8 @@
 ├── utils           第三方插件包
 ├── video           视频处理应用
 ├── video_clip      视频下载存储位置
-└── video_storage   视频处理后存储位置
-
+└── video_storage   视频处理后存储位置 空目录上传不了
+ 空目录 建议创建一下
 ```
 
 ### 视频剪辑微服务功能要求以及自我认知完成
